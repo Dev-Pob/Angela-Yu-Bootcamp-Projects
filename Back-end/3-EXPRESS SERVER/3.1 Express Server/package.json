@@ -1,0 +1,12 @@
+{
+  "name": "3.1-express-server",
+  "version": "1.0.0",
+  "description": "3.1 Express server",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pob",
+  "license": "ISC"
+}
