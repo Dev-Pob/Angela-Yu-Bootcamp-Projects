@@ -1,5 +1,5 @@
 # Bootcamp project
-Here you can find all the projects that I wrote while studying from the Udemy bootcamp from Angela Wu.
+Here you can find all the projects that I wrote while studying from the Udemy bootcamp from Angela Yu.
 <br>
 <br>
 I focused mainly on the front-end but I was brave enough to go also into some back-end sections <br>
